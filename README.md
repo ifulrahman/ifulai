@@ -9,6 +9,11 @@
 Iful.ai is a modern **Fullstack AI Tools Platform**, bridging creativity with productivity.  
 Whether you're generating articles, crafting blog titles, creating stunning AI-driven images, removing backgrounds or objects effortlessly, or reviewing resumes—this all-in-one platform empowers you to accomplish more with less.
 
+## Screenshots
+![Dashboard Preview](ss-1.jpg)
+![AI Tools Preview](ss-2.jpg)
+![Resume Review Preview](ss-3.jpg)
+
 ---
 
 ## ✨ Features
