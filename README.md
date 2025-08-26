@@ -51,5 +51,3 @@ Whether you're generating articles, crafting blog titles, creating stunning AI-d
 - **ClipDrop API** – https://clipdrop.co/apis – External AI service facilitating image generation and editing.  
 - **Google Gemini AI (via OpenAI SDK)** – https://ai.google.dev/gemini-api/docs – State-of-the-art language model for generating articles, titles, and resume feedback.  
 - **Neon Postgres** http://neon.com – Serverless PostgreSQL featuring instant provisioning, auto-scaling, "scale-to-zero", branching, snapshotting, and cost-effective pay-per-use pricing.  
-
----
